@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : thefotios
+tagline: Code, Food, Life
 author :
   name : Fotios Lindiakos
   email : fotioslindiakos@gmail.com
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-29037505-1'
     getclicky :
       site_id : 
 
