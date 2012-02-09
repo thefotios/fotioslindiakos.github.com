@@ -2,7 +2,7 @@
 layout: post
 title: "hello, world"
 category: 
-tags: []
+tags: ['first post','welcome']
 ---
 {% include JB/setup %}
 I don't know what it is about celebrating a birthday that makes me want to be able to go back and reflect on the past year.
